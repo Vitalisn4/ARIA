@@ -5,7 +5,7 @@ const { notFound, errorHandler } = require("./middleware/errorMiddleware");
 const corsOptions = {
   origin: [
     "http://localhost:5173", // Your local frontend
-    // We will add your live frontend URL here later
+    "https://aria-theta.vercel.app/",
   ],
   optionsSuccessStatus: 200,
 };
