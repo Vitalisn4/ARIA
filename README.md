@@ -22,11 +22,11 @@ Welcome to the full-stack repository for ARIA, an integrated AI ecosystem design
 To best review this project, please use the live deployed applications.
 
 *   **Live Frontend Application:**
-    *   **URL:** `[Your Live Frontend URL Here - e.g., https://aria-frontend.onrender.com]`
+    *   **URL:** `https://aria-theta.vercel.app`
     *   **Instructions:** Visit this URL to register, log in, and interact with the application.
 
 *   **Live Backend API:**
-    *   **URL:** `[Your Live Backend API URL Here - e.g., https://aria-backend.onrender.com]`
+    *   **URL:** `https://aria-backend-kkr7.onrender.com`
     *   **Note:** This is the base URL for the API. It is not meant to be visited directly in a browser. The frontend application above is already configured to communicate with it.
 
 ---
